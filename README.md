@@ -5,4 +5,5 @@
 ![image](https://user-images.githubusercontent.com/98318326/229058933-e96b1581-b047-4823-88bc-354604a220ae.png)
 
 *배포한 Spring boot RESTAPI*
-<p align="center">![image](https://user-images.githubusercontent.com/98318326/229058368-126bed12-68ee-494b-a430-8b679b60ea6a.png)
+<p align="center">
+![image](https://user-images.githubusercontent.com/98318326/229058368-126bed12-68ee-494b-a430-8b679b60ea6a.png)
